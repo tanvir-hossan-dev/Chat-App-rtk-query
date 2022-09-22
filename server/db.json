@@ -44,23 +44,45 @@
       "message": "How are you?",
       "timestamp": 1661976143678
     },
+
     {
-      "id": 2,
-      "participants": "sumit@learnwithsumit.com-saad@learnwithsumit.com",
+      "participants": "akash@learnwithsumit.com-tanvir@gmail.com",
       "users": [
         {
-          "email": "sumit@learnwithsumit.com",
-          "name": "Sumit Saha",
-          "id": 1
+          "email": "akash@learnwithsumit.com",
+          "password": "$2a$10$CtHS.yCGS80jiuZx8yKEI.5zdiZykHF/6aPTDqpHl6ZqEFGISOHKO",
+          "name": "Akash Ahmed",
+          "id": 2
+        },
+        {
+          "email": "tanvir@gmail.com",
+          "name": "Tanvir",
+          "id": 4
+        }
+      ],
+      "message": "yeap ",
+      "timestamp": 1663863914285,
+      "id": 5
+    },
+
+    {
+      "participants": "tanvir@gmail.com-akash@learnwithsumit.com",
+      "users": [
+        {
+          "email": "tanvir@gmail.com",
+          "name": "Tanvir",
+          "id": 4
         },
         {
           "email": "akash@learnwithsumit.com",
-          "name": "Saad Hasan",
-          "id": 3
+          "password": "$2a$10$CtHS.yCGS80jiuZx8yKEI.5zdiZykHF/6aPTDqpHl6ZqEFGISOHKO",
+          "name": "Akash Ahmed",
+          "id": 2
         }
       ],
-      "message": "How are you?",
-      "timestamp": 1661976143678
+      "message": "i'm fine",
+      "timestamp": 1663864076333,
+      "id": 7
     }
   ],
   "messages": [

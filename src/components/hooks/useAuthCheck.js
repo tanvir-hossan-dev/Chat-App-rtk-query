@@ -7,7 +7,7 @@ const useAuthCheck = () => {
   const dispatch = useDispatch();
   const [authCheck, setAuthCheck] = useState(false);
   useEffect(() => {
-    const localAuth = localStorage?.getItem("Auth");
+    const localAuth = localStorage.getItem("Auth");
     if (localAuth) {
       const auth = JSON.parse(localAuth);
       if (auth?.accessToken && auth?.user) {

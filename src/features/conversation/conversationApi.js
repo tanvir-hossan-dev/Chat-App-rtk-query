@@ -33,3 +33,5 @@ export const {
   useAddConversationMutation,
   useEditConversationMutation,
 } = conversationApi;
+
+export default conversationApi;
